@@ -30,3 +30,4 @@
 
 # latihan 8
 
+![ss](https://user-images.githubusercontent.com/41879991/51006635-ce1f6900-1576-11e9-9955-9300dc8a4179.PNG)
