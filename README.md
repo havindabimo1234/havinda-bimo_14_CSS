@@ -30,4 +30,3 @@
 
 # latihan 8
 
-![8](https://user-images.githubusercontent.com/41879991/51006260-e8584780-1574-11e9-8e07-c1411520843b.PNG)
